@@ -2,10 +2,11 @@
 #Guacamole
 #Incredients
 - Avocado
-- Lemon
+- Lemon/lime
 - Salt
 - Cilandro
 - Garlic
 - Cherry Tomatoes
 - Pepper
 #Instructions
+smoosh
